@@ -18,7 +18,7 @@ spec:
 
     spec:
       containers:
-        - name: devops
+        - name: react-app
           image: 980819806741.dkr.ecr.us-east-1.amazonaws.com/react-devops
           ports:
             - containerPort: 80
